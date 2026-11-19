@@ -1,0 +1,6 @@
+{
+  "name": "Ke Dog - Perros Calientes Brutales",
+  "description": "La fábrica de los perros calientes más brutales, con pan de batata sagrado, salchichas premium y salsas que chorrean de verdad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
